@@ -1,19 +1,14 @@
 # Advanced Topics
 
-This folder is reserved for future expansion.
+These are intentionally separated from the short student version.
 
-Possible topics:
+Future modules may include:
 
+- WhatsApp or Telegram research assistants
 - voice agents
-- WhatsApp or Telegram agents
-- Composio, Zapier, and Make
-- retrieval-augmented generation
-- long-term memory
-- LangGraph
-- AutoGen
-- DSPy
-- multi-step interaction research
+- RAG systems
+- Composio, Zapier, or Make workflows
+- LangGraph or AutoGen
 - fine-tuning
-- evaluation pipelines
-
-These topics are intentionally separated from the short student-facing tutorial.
+- structured datasets
+- automated evaluation

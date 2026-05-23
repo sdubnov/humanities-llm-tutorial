@@ -1,19 +1,16 @@
-# Taxonomy Builder Prompt
+You are helping build a humanities analysis taxonomy from a theory text.
 
-Read the theory text below and turn it into a practical analytical taxonomy.
-
+Read the text and extract analytical concepts.
 For each concept, provide:
-
-1. concept name
-2. short definition
+1. name
+2. definition
 3. inclusion criteria
 4. exclusion criteria
 5. example
-6. possible ambiguity
-7. how it could be used in textual analysis
+6. common ambiguity
+7. relation to other concepts
 
-After the taxonomy, propose a step-by-step analysis procedure.
-
-## Theory text
-
-[Paste theory text here]
+Then produce:
+A. taxonomy
+B. ontology-like relationship list
+C. short method for applying it to a new text

@@ -1,33 +1,40 @@
-# Humanities LLM Tutorial
+# Humanities LLM Research Tutorial
 
-A short, low-code tutorial for using Large Language Models (LLMs) as structured research assistants in humanities and qualitative analysis.
+A short, low-code tutorial for using Large Language Models in humanities and qualitative research.
 
-This version is designed for quick student onboarding. It focuses on method, prompts, files, taxonomies, and reproducible interpretive workflows—not heavy programming.
+The course moves from casual chat to reproducible research workflows:
 
-## Learning path
+```text
+chatting → prompting → files → rules → taxonomies → multi-turn analysis → agents
+```
 
-1. From Chatting to Research Workflows  
-2. Environment and Repository Setup  
-3. Prompting and Structured Analysis  
-4. Session Notes, Rules, and Memory  
-5. Building Taxonomies from Theory Texts  
-6. Multi-Agent Interpretive Workflows  
-7. Mini Research Project  
+## Recommended path
 
-## How to use this repo
+1. Lesson 0 — First contact with LLMs
+2. Lesson 1 — Build the research environment
+3. Lesson 2 — Prompting as method
+4. Lesson 3 — Sessions, CLI tools, memory, and command styles
+5. Lesson 4 — Humanities concepts, taxonomy, and ontology
+6. Lesson 5 — Multi-turn interaction and in-context learning
+7. Lesson 6 — Agent roles for interpretive analysis
+8. Final project — Build a small reproducible analysis study
 
-Start with `lessons/lesson_00_orientation.md`, then work through the lessons in order.
+## Quick start
 
-Use:
+Open this folder in Zed or VS Code. Then run one of the setup scripts:
 
-- `prompts/` for reusable prompts
-- `templates/` for rules, taxonomy, and session notes
-- `examples/` for small demonstrations
-- `projects/` for student research work
-- `advanced_topics/` for optional future expansion
+```bash
+bash scripts/setup_project.sh my_first_llm_study
+```
 
-## Core idea
+or:
 
-The goal is to move from casual AI chatting toward reproducible humanities research workflows.
+```bash
+python scripts/setup_project.py my_first_llm_study
+```
 
-Prompts, taxonomies, rules, annotations, and session notes are treated as scholarly research artifacts.
+This creates a working research folder with prompts, source texts, session notes, rules, outputs, and evaluations.
+
+## Philosophy
+
+The goal is not to replace interpretation with automation. The goal is to make humanistic interpretation more explicit, reusable, inspectable, and reproducible.
