@@ -4,6 +4,9 @@
 A practical low-code / minimal-code course on using Large Language Models (LLMs)
 for humanities, interpretive, and qualitative research.
 
+Createf by Shlomo Dubnov
+sdubnov@ucsd.edu
+
 This course teaches students how to move from casual AI chatting toward:
 - structured prompting
 - reproducible research workflows
