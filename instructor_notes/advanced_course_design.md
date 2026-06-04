@@ -4,8 +4,6 @@
 
 This document is the instructor guide for the advanced course sequence.
 
-It replaces the earlier short advanced-course design note.
-
 The introductory course teaches students to move from casual LLM use toward explicit, reproducible humanities methods:
 
 ```text
