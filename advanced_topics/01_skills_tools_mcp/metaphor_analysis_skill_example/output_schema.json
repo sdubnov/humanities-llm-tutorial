@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "required": [
+    "passage",
+    "device",
+    "evidence",
+    "source_domain",
+    "target_domain",
+    "interpretation",
+    "confidence"
+  ],
+  "properties": {
+    "passage": {
+      "type": "string"
+    },
+    "device": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "string"
+    },
+    "source_domain": {
+      "type": "string"
+    },
+    "target_domain": {
+      "type": "string"
+    },
+    "affect": {
+      "type": "string"
+    },
+    "interpretation": {
+      "type": "string"
+    },
+    "alternative_reading": {
+      "type": "string"
+    },
+    "confidence": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    }
+  }
+}
