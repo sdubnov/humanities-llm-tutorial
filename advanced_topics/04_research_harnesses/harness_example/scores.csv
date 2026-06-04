@@ -1,0 +1,5 @@
+text_id,evidence_quality,device_accuracy,domain_clarity,interpretation_support,ambiguity_handling,policy_compliance,schema_completeness,overinterpretation_control,average,pass_or_revise,notes
+text_01,,,,,,,,,,,
+text_02,,,,,,,,,,,
+text_03,,,,,,,,,,,
+text_04,,,,,,,,,,,

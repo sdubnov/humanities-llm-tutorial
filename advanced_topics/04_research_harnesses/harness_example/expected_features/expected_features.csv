@@ -1,0 +1,5 @@
+text_id,expected_device,expected_source_domain_hint,expected_target_domain_hint,ambiguity_expected
+text_01,metaphor,broken mirror,city,yes
+text_02,metaphor/personification,swallowing or consumption,road or journey,yes
+text_03,metaphor,winter or coldness,voice or presence,yes
+text_04,metaphor,cage and light,life or self,yes
