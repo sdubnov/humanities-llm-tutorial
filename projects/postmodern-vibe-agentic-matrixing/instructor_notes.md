@@ -1,5 +1,7 @@
 # Instructor Notes
 
+For a complete instructor-facing walkthrough, including derivation of the sample matrix and exact run instructions, see `instructor_solution.md`.
+
 ## Recommended use
 
 This project works best after students have already practiced structured prompting, taxonomies, multi-turn revision, and role-based agents.
@@ -15,7 +17,7 @@ It can be taught as:
 
 ### 15 minutes — Framing
 
-Discuss why “vibe” is not merely subjective atmosphere but a shorthand for recurring patterns of structure, affect, form, and readerly pressure.
+Use `project_background.md` to explain the analysis challenge. Discuss why “vibe” is not merely subjective atmosphere but a shorthand for recurring patterns of structure, affect, form, and readerly pressure.
 
 ### 25 minutes — Agent review
 
