@@ -1,0 +1,56 @@
+POSTMODERN VIBE AGENTIC MATRIX REPORT
+============================================
+
+Libra — Don DeLillo
+-------------------
+Ontological multiplicity:     3/10
+Paranoia / affective density: 10/10
+Media / structural friction:  4/10
+Assigned cluster: Paranoid Realists
+Reliability warning: Based on summary rather than full novel; canonical reputation may inflate paranoia score.
+
+House of Leaves — Mark Z. Danielewski
+-------------------------------------
+Ontological multiplicity:     9/10
+Paranoia / affective density: 9/10
+Media / structural friction:  10/10
+Assigned cluster: Ergodic / Media Monsters
+Reliability warning: Summary emphasizes famous formal traits; full reading would be needed to test the score.
+
+Gravity's Rainbow — Thomas Pynchon
+----------------------------------
+Ontological multiplicity:     8/10
+Paranoia / affective density: 9/10
+Media / structural friction:  8/10
+Assigned cluster: Ergodic / Media Monsters
+Reliability warning: Summary cannot capture sentence-level difficulty or full stylistic range.
+
+Infinite Jest — David Foster Wallace
+------------------------------------
+Ontological multiplicity:     6/10
+Paranoia / affective density: 8/10
+Media / structural friction:  9/10
+Assigned cluster: Overload Systems
+Reliability warning: The description highlights form more than local textual evidence.
+
+Slaughterhouse-Five — Kurt Vonnegut
+-----------------------------------
+Ontological multiplicity:     10/10
+Paranoia / affective density: 7/10
+Media / structural friction:  5/10
+Assigned cluster: Chrono-Fractured Empaths
+Reliability warning: A short summary may overstate the simplicity of the form.
+
+CLASS-LEVEL SUMMARY
+-------------------
+Average ontological_multiplicity: 7.20
+Average paranoia_affective_density: 8.60
+Average media_structural_friction: 7.20
+
+REFLECTION PROMPTS
+------------------
+1. Which cluster assignment felt most persuasive, and why?
+2. Which score looked falsely precise?
+3. Where did the agents rely on reputation rather than evidence?
+4. Which agent role would you add, remove, or rewrite?
+5. How would the results change if the input were full passages rather than summaries?
